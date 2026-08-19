@@ -1,1 +1,16 @@
 QC
+#!/bin/bash
+
+mkdir -p data/trimmed
+
+for R1 in data/fastq/*_1.fastq.gz
+do
+    R2=${R1/_1.fastq.gz/_2.fastq.gz}
+
+    trim_galore \
+        --paired \
+        --quality 20 \
+        --cores 4 \
+        --output_dir data/trimmed \
+        "$R1" "$R2"
+done
