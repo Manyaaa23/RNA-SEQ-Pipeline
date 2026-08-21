@@ -32,11 +32,16 @@ Tools
 FastQC | Trim Galore | HISAT2 | SAMtools | featureCounts | DESeq2 | clusterProfiler | R
 1)volcanoplot.png
 <img width="553" height="491" alt="3af5a27c-0f26-4b5d-b22b-2468e3d84e04" src="https://github.com/user-attachments/assets/5fcba0ca-d817-4fb2-b2ab-860c60df1b7c" />
-2) plot.png
+
+2) PCAplot.png
+
 <img width="553" height="491" alt="08a2c05d-7ce5-463d-ad43-a06fd6dd1d39" src="https://github.com/user-attachments/assets/54cc5517-0962-4e55-b7d9-a08d3a7bf3a6" />
-3)plot.png
+
+3)heatmap.png
+
 <img width="2700" height="3000" alt="Heatmap_Top30_DEGs" src="https://github.com/user-attachments/assets/641251fc-a8bb-4141-85ac-c773922329d2" />
-4)plot.png 
+4)dotplot.png 
+
 <img width="3600" height="2700" alt="GO_Biological_Process_Dotplot" src="https://github.com/user-attachments/assets/3edc7a63-3655-480a-8607-ed0823814dfc" />
 
 
